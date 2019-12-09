@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\rarma\Dropbox\HAX\Xian_uPCR\UPCR_TEC_MODULE\UPCR_TEC_module.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
