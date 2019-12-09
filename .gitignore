@@ -1,0 +1,42 @@
+
+### Altium ###
+# Don't include Release folders #
+**/release/*
+
+# Previews Folders
+**/__Previews/
+
+# PrjPCBStructure files #
+**/*.PrjPcbStructure
+
+# OutJob Files #
+**/*.OutJob
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project\ Logs*/
+
+# Project Outputs
+Project\ Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+# End of https://www.gitignore.io/api/altium
+
+#debug logs
+debug.log
+
+#Altium malfunction outputs
+**/*.$$$
+
+### VS Code ###
+.vscode
+build
+*.make
+
